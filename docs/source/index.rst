@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Keolive - Bảng xếp hạng bóng đá- Bảng xếp hạng ngoại hạng anh 2024/25
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`https://keolive.com/keolive-247-bang-xep-hang-bong-da.html <https://keolive.com/keolive-247-bang-xep-hang-bong-da.html>`_ đem đến bảng xếp hạng Ngoại Hạng Anh mùa giải 2024/25 với thông tin chi tiết về 20 đội bóng tham dự. Hiện tại, vòng đấu thứ 8 đã diễn ra, với Liverpool dẫn đầu bảng sau 7 trận đấu, giành 18 điểm. Theo sát là Manchester City và Arsenal, cùng có 17 điểm. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Bảng xếp hạng tại Keolive được cập nhật liên tục, giúp người hâm mộ theo dõi phong độ, kết quả và thống kê đối đầu của các đội bóng. Ngoài Ngoại Hạng Anh, bạn cũng có thể tìm thấy kết quả từ hơn 500 giải đấu bóng đá khác trên Keolive. 
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 88 Đ. Văn Tiến Dũng, Minh Khai, Bắc Từ Liêm, Hà Nội 100000, Việt Nam. 
 
-Contents
---------
+Phone: 0971983133. 
 
-.. toctree::
+Email: hotrokeolive@gmail.com. 
 
-   usage
-   api
+Website: https://keolive.com/keolive-247-bang-xep-hang-bong-da.html
+
+#bangxephang, #bangxephangbongda, #bangxephangngoaihanganh, #bangxephangcupc1, #bangxephangcupc2, #bxh, #bangxephangngoaihanganh
